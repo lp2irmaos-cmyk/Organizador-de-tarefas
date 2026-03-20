@@ -6,6 +6,10 @@ function Tarefas() {
  
   return (
     <>
+
+    <table>
+      
+    </table>
     
     </>
   )
