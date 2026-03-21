@@ -5,11 +5,9 @@ function Tarefas() {
 
  
   return (
-    <>
-      <p>opa Josué</p>
-      <div className='teste'><p>testes</p></div>
-      <p>proximos  testes </p>
-    </>
+    <div>
+      
+    </div>
   )
 }
 
