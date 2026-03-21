@@ -1,13 +1,13 @@
 @keyframes Titulo {
 
     from{
-        
+
         opacity: 0;
-        transform: translateY(100%);
+        transform: translateY(700px);
     }
     to{
         opacity: 1;
-        transform: translateY(50%);
+        transform: translateY(350px);
     }
 
 }
