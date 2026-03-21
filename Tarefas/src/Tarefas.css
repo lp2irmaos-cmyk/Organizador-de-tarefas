@@ -62,9 +62,9 @@
 }
 
 .titulo1{
-    opacity: 0;
+    
     font-size: 60px;
     text-align: center;
-    animation: Titulo 2s forwards 2s ;
+    
     animation: animate 4s forwards 2s;
 }
