@@ -1,41 +1,3 @@
-@keyframes animate{
-            0%{
-                color: #484848;
-                text-shadow: none;
-            }
-            18%{
-                color: #484848;
-                text-shadow: none;
-            }
-            20%{
-                color: #fff900;
-                text-shadow: 0 0 7px #fff900, 0 0 20px #ff6c00;
-            }
-            30%{
-                color: #484848;
-                text-shadow: none;
-            }
-            35%{
-                color: #fff900;
-                text-shadow: 0 0 7px #fff900, 0 0 20px #ff6c00;
-            }
-            70%{
-                color: #484848;
-                text-shadow: none;
-            }
-            85%{
-                color: #fff900;
-                text-shadow: 0 0 7px #fff900, 0 0 20px #ff6c00;
-            }
-            90%{
-                color: #484848;
-                text-shadow: none;
-            }
-            100%{
-                color: #484848;
-                text-shadow: none;
-            }
-        }
 
 @keyframes Titulo {
 
@@ -62,9 +24,9 @@
 }
 
 .titulo1{
-    
+    opacity: 0;
     font-size: 60px;
     text-align: center;
+    animation: Titulo 2s forwards 2s ;
     
-    animation: animate 4s forwards 2s;
 }
