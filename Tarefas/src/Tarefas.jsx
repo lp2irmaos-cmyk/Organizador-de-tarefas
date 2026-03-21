@@ -6,11 +6,7 @@ function Tarefas() {
  
   return (
     <>
-
-    <table>
-      
-    </table>
-    
+      <p>opa josue</p>
     </>
   )
 }
